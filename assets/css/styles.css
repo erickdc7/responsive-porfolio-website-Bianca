@@ -299,6 +299,9 @@ img {
 /* Active link */
 
 /*=============== HOME SECTION ===============*/
+.home {
+  position: relative;
+}
 
 /* Circular text animation */
 
