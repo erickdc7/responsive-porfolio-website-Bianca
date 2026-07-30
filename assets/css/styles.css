@@ -308,6 +308,11 @@ img {
   left: -2rem;
 }
 
+.home .blob-small:nth-child(1) {
+  top: 11rem;
+  right: -4rem;
+}
+
 /* Circular text animation */
 
 /*=============== BUTTON ===============*/
