@@ -303,6 +303,11 @@ img {
   position: relative;
 }
 
+.home .blob-small:nth-child(1) {
+  top: -2rem;
+  left: -2rem;
+}
+
 /* Circular text animation */
 
 /*=============== BUTTON ===============*/
