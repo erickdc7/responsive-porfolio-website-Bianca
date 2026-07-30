@@ -313,6 +313,11 @@ img {
   right: -4rem;
 }
 
+.home__container {
+  padding-block: 2.5rem 3rem;
+  row-gap: 7rem;
+}
+
 /* Circular text animation */
 
 /*=============== BUTTON ===============*/
