@@ -353,6 +353,14 @@ img {
   background-color: var(--white-color);
 }
 
+.home__box-3 {
+  background: linear-gradient(
+    180deg,
+    hsl(var(--hue), 75%, 85%) 0%,
+    hsl(var(--hue), 75%, 60%) 100%
+  );
+}
+
 /* Circular text animation */
 
 /*=============== BUTTON ===============*/
