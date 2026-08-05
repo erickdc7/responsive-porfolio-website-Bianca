@@ -345,6 +345,10 @@ img {
   border-radius: 1.5rem;
 }
 
+.home__box-1 {
+  background-color: hsl(var(--hue), 25%, 32%);
+}
+
 /* Circular text animation */
 
 /*=============== BUTTON ===============*/
