@@ -333,6 +333,10 @@ img {
   margin-bottom: 0.5rem;
 }
 
+.home__title span {
+  color: var(--first-color);
+}
+
 /* Circular text animation */
 
 /*=============== BUTTON ===============*/
