@@ -337,6 +337,14 @@ img {
   color: var(--first-color);
 }
 
+.home__box-1,
+.home__box-2,
+.home__box-3 {
+  width: 210px;
+  height: 250px;
+  border-radius: 1.5rem;
+}
+
 /* Circular text animation */
 
 /*=============== BUTTON ===============*/
