@@ -323,6 +323,11 @@ img {
   color: var(--white-color);
 }
 
+.home__subtitle {
+  font-size: var(--h3-font-size);
+  margin-bottom: 1rem;
+}
+
 /* Circular text animation */
 
 /*=============== BUTTON ===============*/
