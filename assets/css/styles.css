@@ -349,6 +349,10 @@ img {
   background-color: hsl(var(--hue), 25%, 32%);
 }
 
+.home__box-2 {
+  background-color: var(--white-color);
+}
+
 /* Circular text animation */
 
 /*=============== BUTTON ===============*/
