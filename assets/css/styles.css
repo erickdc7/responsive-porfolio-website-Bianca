@@ -357,6 +357,10 @@ img {
 
 .home__box-2 {
   background-color: var(--white-color);
+  position: absolute;
+  left: 0.75rem;
+  bottom: 0.75rem;
+  rotate: 5deg;
 }
 
 .home__box-3 {
