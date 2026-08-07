@@ -369,6 +369,10 @@ img {
     hsl(var(--hue), 75%, 85%) 0%,
     hsl(var(--hue), 75%, 60%) 100%
   );
+  position: absolute;
+  left: 1.5rem;
+  bottom: 1.5rem;
+  rotate: 10deg;
 }
 
 /* Circular text animation */
