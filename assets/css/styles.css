@@ -337,6 +337,12 @@ img {
   color: var(--first-color);
 }
 
+.home__images {
+  position: relative;
+  justify-self: center;
+  margin-right: 1.5rem;
+}
+
 .home__box-1,
 .home__box-2,
 .home__box-3 {
