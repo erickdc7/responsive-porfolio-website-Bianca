@@ -421,6 +421,15 @@ img {
   z-index: 10;
 }
 
+.home__text {
+  z-index: 10;
+  color: var(--white-color);
+  font: var(--font-semi-bold) var(--smaller-font-size) var(--second-font);
+  position: absolute;
+  width: 100px;
+  height: 100px;
+}
+
 /* Circular text animation */
 
 /*=============== BUTTON ===============*/
