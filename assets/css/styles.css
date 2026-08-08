@@ -399,6 +399,16 @@ img {
   place-items: center;
 }
 
+.home__circle::after {
+  content: "";
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  mask-image: radial-gradient(circle, transparent 30px, #000 0);
+  backdrop-filter: blur(4px);
+  border-radius: 50%;
+}
+
 /* Circular text animation */
 
 /*=============== BUTTON ===============*/
