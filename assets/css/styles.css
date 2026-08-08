@@ -430,6 +430,13 @@ img {
   height: 100px;
 }
 
+.home__text span {
+  position: absolute;
+  transform-origin: 0 46px;
+  left: 50px;
+  top: 5px;
+}
+
 /* Circular text animation */
 
 /*=============== BUTTON ===============*/
