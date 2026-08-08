@@ -34,6 +34,8 @@ const homeText = document.getElementById('.home__text'),
 
 homeText.textContent = '' // Clears the original content
 
+// Iterates through each character
+
 /*=============== HOME TYPED JS ===============*/
 
 
