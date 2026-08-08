@@ -35,6 +35,12 @@ const homeText = document.getElementById('.home__text'),
 homeText.textContent = '' // Clears the original content
 
 // Iterates through each character
+letters.forEach((char, i) => {
+   const span = document.createElement('span') // Creates a span element
+   span.textContent = char // Sets the character as the text content of the span
+   span.style.transform = `rotate(${i * angleStep}deg)` // Rotates the span based on its index
+   homeText.appendChild(span) // Appends the span to the homeText element
+})
 
 /*=============== HOME TYPED JS ===============*/
 
