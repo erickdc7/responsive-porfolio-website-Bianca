@@ -32,6 +32,7 @@ const homeText = document.getElementById('.home__text'),
    letters = homeText.textContent.trim().split(''), // Converts text into an array of characters
    angleStep = 300 / letters.length // Angle for each character; length counts the number of characters
 
+homeText.textContent = '' // Clears the original content
 
 /*=============== HOME TYPED JS ===============*/
 
