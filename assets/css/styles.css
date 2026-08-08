@@ -375,6 +375,18 @@ img {
   rotate: 10deg;
 }
 
+.home__img {
+  position: absolute;
+  width: 190px;
+  bottom: 2.5rem;
+  right: -1.25rem;
+  mask-image: linear-gradient(
+    to bottom,
+    hsla(var(--hue), 75%, 60%) 70%,
+    transparent 100%
+  );
+}
+
 /* Circular text animation */
 
 /*=============== BUTTON ===============*/
