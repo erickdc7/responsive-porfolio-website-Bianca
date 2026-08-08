@@ -428,6 +428,7 @@ img {
   position: absolute;
   width: 100px;
   height: 100px;
+  animation:  rotate-text 8s linear infinite;
 }
 
 .home__text span {
