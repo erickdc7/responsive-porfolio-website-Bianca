@@ -437,6 +437,13 @@ img {
   top: 5px;
 }
 
+.home__images .blob-big {
+  top: -1.5rem;
+  left: 0;
+  right: 0;
+  justify-self: center;
+}
+
 /* Circular text animation */
 
 /*=============== BUTTON ===============*/
