@@ -428,7 +428,7 @@ img {
   position: absolute;
   width: 100px;
   height: 100px;
-  animation:  rotate-text 8s linear infinite;
+  animation: rotate-text 8s linear infinite;
 }
 
 .home__text span {
@@ -446,6 +446,14 @@ img {
 }
 
 /* Circular text animation */
+@keyframes rotate-text {
+  0% {
+    transform: rotate(0);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
 
 /*=============== BUTTON ===============*/
 
