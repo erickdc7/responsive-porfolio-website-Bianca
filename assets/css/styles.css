@@ -563,6 +563,10 @@ img {
     width: 250px;
     height: 300px;
   }
+
+  .home__img {
+    width: 230px;
+  }
 }
 
 /* For 2K resolutions <> */
