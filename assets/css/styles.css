@@ -518,6 +518,12 @@ img {
     filter: blur(100px);
   }
 
+  .blob-big {
+    width: 250px;
+    height: 250px;
+    filter: blur(150px);
+  }
+
   .nav {
     height: calc(var(--header-height) + 2rem);
     align-items: center;
