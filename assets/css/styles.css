@@ -576,6 +576,11 @@ img {
   .home__images .blob-big {
     top: -8rem;
   }
+
+  .home .blob-small:nth-child(1) {
+    top: -3rem;
+    left: -3rem;
+  }
 }
 
 /* For 2K resolutions <> */
