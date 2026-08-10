@@ -552,6 +552,10 @@ img {
     font-size: var(--h2-font-size);
     margin-bottom: 2rem;
   }
+
+  .home__name {
+    margin-bottom: 1rem;
+  }
 }
 
 /* For 2K resolutions <> */
