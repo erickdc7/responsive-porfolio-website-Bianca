@@ -556,6 +556,13 @@ img {
   .home__name {
     margin-bottom: 1rem;
   }
+
+  .home__box-1,
+  .home__box-2,
+  .home__box-3 {
+    width: 250px;
+    height: 300px;
+  }
 }
 
 /* For 2K resolutions <> */
