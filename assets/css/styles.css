@@ -567,6 +567,11 @@ img {
   .home__img {
     width: 230px;
   }
+
+  .home__circle {
+    right: -3rem;
+    bottom: -1.5rem;
+  }
 }
 
 /* For 2K resolutions <> */
