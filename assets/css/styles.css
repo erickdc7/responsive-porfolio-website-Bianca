@@ -543,6 +543,10 @@ img {
     align-items: center;
     column-gap: 4rem;
   }
+
+  .home__container {
+    grid-template-columns: 800px;
+  }
 }
 
 /* For 2K resolutions <> */
