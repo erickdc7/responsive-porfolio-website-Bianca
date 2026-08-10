@@ -28,7 +28,7 @@ const linkAction = () => {
 navLink.forEach(n => n.addEventListener('click', linkAction))
 
 /*=============== HOME TEXT CIRCULAR ===============*/
-const homeText = document.getElementById('.home__text'),
+const homeText = document.getElementById('home-text'),
    letters = homeText.textContent.trim().split(''), // Converts text into an array of characters
    angleStep = 300 / letters.length // Angle for each character; length counts the number of characters
 
@@ -45,7 +45,10 @@ letters.forEach((char, i) => {
 /*=============== HOME TYPED JS ===============*/
 const typedHome = new Typed('#home-typed', {
    strings: ['Freelancer', 'Web Developer', 'SEO Specialist'], // Insert professions
-   typeSpeed: 50,
+   typeSpeed: 60,
+   backSpeed: 30,
+   backDelay: 2000,
+   loop: true
 });
 
 /*=============== CHANGE HEADER STYLES ===============*/
