@@ -43,7 +43,10 @@ letters.forEach((char, i) => {
 })
 
 /*=============== HOME TYPED JS ===============*/
-
+const typedHome = new Typed('#home-typed', {
+   strings: ['Freelancer', 'Web Developer', 'SEO Specialist'], // Insert professions
+   typeSpeed: 50,
+});
 
 /*=============== CHANGE HEADER STYLES ===============*/
 
