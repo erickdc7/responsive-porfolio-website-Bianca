@@ -572,6 +572,10 @@ img {
     right: -3rem;
     bottom: -1.5rem;
   }
+
+  .home__images .blob-big {
+    top: -8rem;
+  }
 }
 
 /* For 2K resolutions <> */
