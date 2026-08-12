@@ -469,6 +469,10 @@ img {
 /*=============== BUTTON ===============*/
 
 /*=============== ABOUT SECTION ===============*/
+.about__container {
+  color: var(--white-color);
+  text-align: center;
+}
 
 /*=============== WORK SECTION ===============*/
 
