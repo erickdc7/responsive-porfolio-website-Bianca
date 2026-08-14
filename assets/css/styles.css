@@ -474,6 +474,10 @@ img {
   text-align: center;
 }
 
+.about__title {
+  font-size: var(--h1-font-size);
+}
+
 /*=============== WORK SECTION ===============*/
 
 /* Swiper class */
