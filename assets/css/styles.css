@@ -478,6 +478,10 @@ img {
   font-size: var(--h1-font-size);
 }
 
+.about__title span {
+  color: var(--first-color);
+}
+
 /*=============== WORK SECTION ===============*/
 
 /* Swiper class */
