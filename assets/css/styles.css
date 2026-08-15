@@ -479,6 +479,12 @@ img {
   column-gap: 0.5rem;
 }
 
+.button i {
+  font-weight: initial;
+  font-size: 1.5rem;
+  transition: transform 0.4s;
+}
+
 /*=============== ABOUT SECTION ===============*/
 .about__container {
   color: var(--white-color);
