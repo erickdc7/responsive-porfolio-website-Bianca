@@ -645,6 +645,11 @@ img {
     align-items: center;
     text-align: initial;
   }
+
+  .about__description {
+    font-size: var(--h3-font-size);
+    margin-bottom: 2rem;
+  }
 }
 
 /* For 2K resolutions <> */
