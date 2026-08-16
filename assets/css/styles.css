@@ -650,6 +650,10 @@ img {
     font-size: var(--h3-font-size);
     margin-bottom: 2rem;
   }
+
+  .about__button {
+    width: initial;
+  }
 }
 
 /* For 2K resolutions <> */
