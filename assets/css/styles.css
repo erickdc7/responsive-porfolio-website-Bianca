@@ -507,6 +507,10 @@ img {
   margin-bottom: 1rem;
 }
 
+.about__button {
+  width: 100%;
+}
+
 /*=============== WORK SECTION ===============*/
 
 /* Swiper class */
