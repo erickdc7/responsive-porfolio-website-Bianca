@@ -638,6 +638,13 @@ img {
   .home .blob-small:nth-child(2) {
     top: 21rem;
   }
+
+  .about__container {
+    grid-template-columns: 580px 380px;
+    justify-content: space-between;
+    align-items: center;
+    text-align: initial;
+  }
 }
 
 /* For 2K resolutions <> */
