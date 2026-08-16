@@ -485,6 +485,10 @@ img {
   transition: transform 0.4s;
 }
 
+.button:hover i {
+  transform: translateX(0.5rem);
+}
+
 /*=============== ABOUT SECTION ===============*/
 .about__container {
   color: var(--white-color);
