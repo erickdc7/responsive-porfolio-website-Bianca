@@ -545,8 +545,8 @@ img {
   place-items: center;
   font-size: 2rem;
   color: var(--black-color);
-  /* opacity: 0;
-  transition: opacity 0.4s; */
+  opacity: 0;
+  transition: opacity 0.4s;
 }
 
 /* Swiper class */
