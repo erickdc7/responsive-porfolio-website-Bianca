@@ -526,6 +526,7 @@ img {
   overflow: hidden;
   border-radius: 1rem;
   margin-bottom: 1.5rem;
+  z-index: 5;
 }
 
 .work__img {
