@@ -528,6 +528,11 @@ img {
   margin-bottom: 1.5rem;
 }
 
+.work__img {
+  border-radius: 1rem;
+  transition: transform 0.4s;
+}
+
 /* Swiper class */
 
 /*=============== SERVICES SECTION ===============*/
