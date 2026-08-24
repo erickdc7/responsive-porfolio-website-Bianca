@@ -529,6 +529,10 @@ img {
   z-index: 5;
 }
 
+.work__data {
+  z-index: 5;
+}
+
 .work__img {
   border-radius: 1rem;
   transition: transform 0.4s;
