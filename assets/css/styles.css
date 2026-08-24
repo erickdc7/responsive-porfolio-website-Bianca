@@ -549,6 +549,13 @@ img {
   transition: opacity 0.4s;
 }
 
+.work__number {
+  display: block;
+  font: var(--font-semi-bold) var(--biggest-font-size) var(--second-font);
+  color: var(--first-color);
+  margin-bottom: 1rem;
+}
+
 /* Swiper class */
 
 /*=============== SERVICES SECTION ===============*/
