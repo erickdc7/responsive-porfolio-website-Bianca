@@ -533,6 +533,22 @@ img {
   transition: transform 0.4s;
 }
 
+.work__arrow {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  width: 48px;
+  height: 48px;
+  background: var(--gradient-color);
+  border-radius: 50%;
+  display: grid;
+  place-items: center;
+  font-size: 2rem;
+  color: var(--black-color);
+  /* opacity: 0;
+  transition: opacity 0.4s; */
+}
+
 /* Swiper class */
 
 /*=============== SERVICES SECTION ===============*/
