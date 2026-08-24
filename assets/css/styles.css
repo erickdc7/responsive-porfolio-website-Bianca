@@ -562,6 +562,10 @@ img {
   margin-bottom: 0.5rem;
 }
 
+.work__card:hover .work__img {
+  transform: scale(1.1);
+}
+
 /* Swiper class */
 
 /*=============== SERVICES SECTION ===============*/
