@@ -556,6 +556,12 @@ img {
   margin-bottom: 1rem;
 }
 
+.work__name {
+  font-size: var(--h2-font-size);
+  color: var(--white-color);
+  margin-bottom: 0.5rem;
+}
+
 /* Swiper class */
 
 /*=============== SERVICES SECTION ===============*/
