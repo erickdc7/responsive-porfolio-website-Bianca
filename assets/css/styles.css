@@ -520,6 +520,14 @@ img {
   overflow: hidden;
 }
 
+.work__link {
+  position: relative;
+  display: inline-block;
+  overflow: hidden;
+  border-radius: 1rem;
+  margin-bottom: 1.5rem;
+}
+
 /* Swiper class */
 
 /*=============== SERVICES SECTION ===============*/
