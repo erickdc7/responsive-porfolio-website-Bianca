@@ -62,7 +62,13 @@ const scrollHeader = () => {
 window.addEventListener('scroll', scrollHeader)
 
 /*=============== SWIPER WORK ===============*/
+const swiperWork = new Swiper('.work__swiper', {
+   loop: true,
 
+   pagination: {
+      el: '.swiper-pagination',
+   },
+})
 
 /*=============== SERVICES ACCORDION ===============*/
 
