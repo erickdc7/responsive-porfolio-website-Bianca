@@ -65,6 +65,7 @@ window.addEventListener('scroll', scrollHeader)
 const swiperWork = new Swiper('.work__swiper', {
    loop: true,
    spaceBetween: 24,
+   slidesPerView: 'auto',
 
    pagination: {
       el: '.swiper-pagination',
