@@ -64,6 +64,7 @@ window.addEventListener('scroll', scrollHeader)
 /*=============== SWIPER WORK ===============*/
 const swiperWork = new Swiper('.work__swiper', {
    loop: true,
+   spaceBetween: 24,
 
    pagination: {
       el: '.swiper-pagination',
