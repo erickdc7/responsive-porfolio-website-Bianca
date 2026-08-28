@@ -740,6 +740,10 @@ img {
   .about__button {
     width: initial;
   }
+
+  .work__container {
+    max-width: 1380px;
+  }
 }
 
 /* For 2K resolutions <> */
