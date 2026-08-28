@@ -592,6 +592,11 @@ img {
   bottom: 0;
 }
 
+.work .swiper-pagination-bullet {
+  background-color: var(--first-color);
+  transition: opacity 0.4s;
+}
+
 /*=============== SERVICES SECTION ===============*/
 
 /* Hide services info */
