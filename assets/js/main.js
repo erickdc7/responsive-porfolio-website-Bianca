@@ -76,6 +76,7 @@ const swiperWork = new Swiper('.work__swiper', {
 
    autoplay: {
       delay: 3000,
+      disableOnInteraction: false,
    }
 })
 
