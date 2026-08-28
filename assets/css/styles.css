@@ -744,6 +744,12 @@ img {
   .work__container {
     max-width: 1380px;
   }
+
+  .work__card {
+    width: 440px;
+    border-radius: 3rem;
+    padding: 1.5rem 1.5rem 4rem;
+  }
 }
 
 /* For 2K resolutions <> */
