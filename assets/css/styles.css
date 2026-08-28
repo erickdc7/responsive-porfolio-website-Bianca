@@ -758,6 +758,10 @@ img {
   .work__number {
     font-size: var(--bigger-font-size);
   }
+
+  .work .blob-big {
+    right: -6rem;
+  }
 }
 
 /* For 2K resolutions <> */
