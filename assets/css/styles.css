@@ -588,6 +588,10 @@ img {
   padding-bottom: 4rem;
 }
 
+.work .swiper-pagination-bullets {
+  bottom: 0;
+}
+
 /*=============== SERVICES SECTION ===============*/
 
 /* Hide services info */
