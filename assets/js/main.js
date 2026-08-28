@@ -73,6 +73,10 @@ const swiperWork = new Swiper('.work__swiper', {
       el: '.swiper-pagination',
       clickable: true,
    },
+
+   autoplay: {
+      delay: 3000,
+   }
 })
 
 /*=============== SERVICES ACCORDION ===============*/
