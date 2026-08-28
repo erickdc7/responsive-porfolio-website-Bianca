@@ -631,6 +631,10 @@ img {
     grid-template-columns: 400px;
     justify-content: center;
   }
+
+  .work__card {
+    width: 350px;
+  }
 }
 
 /* For large devices <> */
