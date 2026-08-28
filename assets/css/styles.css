@@ -754,6 +754,10 @@ img {
   .work__img {
     border-radius: 2rem;
   }
+
+  .work__number {
+    font-size: var(--bigger-font-size);
+  }
 }
 
 /* For 2K resolutions <> */
