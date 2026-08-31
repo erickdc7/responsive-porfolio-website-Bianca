@@ -598,8 +598,14 @@ img {
 }
 
 /*=============== SERVICES SECTION ===============*/
-.service__container {
+.services__container {
   row-gap: 2rem;
+}
+
+.services__card {
+  border-bottom: 2px solid var(--container-color);
+  padding-bottom: 1.5rem;
+  overflow: hidden;
 }
 
 /* Hide services info */
