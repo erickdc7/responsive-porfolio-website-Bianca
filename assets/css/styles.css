@@ -598,6 +598,9 @@ img {
 }
 
 /*=============== SERVICES SECTION ===============*/
+.service__container {
+  row-gap: 2rem;
+}
 
 /* Hide services info */
 
