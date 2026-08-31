@@ -608,6 +608,14 @@ img {
   overflow: hidden;
 }
 
+.services__button {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  column-gap: 0.5rem;
+  cursor: pointer;
+}
+
 /* Hide services info */
 
 /* Rotate icon */
