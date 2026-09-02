@@ -705,7 +705,8 @@ img {
   }
 
   .home__container,
-  .about__container {
+  .about__container,
+  .services__container {
     grid-template-columns: 400px;
     justify-content: center;
   }
