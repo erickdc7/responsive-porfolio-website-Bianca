@@ -661,6 +661,15 @@ img {
   font: var(--font-semi-bold) var(--h3-font-size) var(--second-font);
 }
 
+.services__data {
+  max-height: 0;
+  overflow: hidden;
+  opacity: 0;
+  transition:
+    max-height 0.4s,
+    opacity 0.4s;
+}
+
 /* Hide services info */
 
 /* Rotate icon */
