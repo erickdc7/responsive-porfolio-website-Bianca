@@ -846,6 +846,10 @@ img {
     grid-template-columns: 690px;
     row-gap: 3rem;
   }
+
+  .services__card {
+    padding-bottom: 2rem;
+  }
 }
 
 /* For 2K resolutions <> */
