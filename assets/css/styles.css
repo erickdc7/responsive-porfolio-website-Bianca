@@ -850,6 +850,10 @@ img {
   .services__card {
     padding-bottom: 2rem;
   }
+
+  .services__button {
+    column-gap: 3rem;
+  }
 }
 
 /* For 2K resolutions <> */
