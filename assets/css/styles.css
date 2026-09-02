@@ -858,6 +858,10 @@ img {
   .services__icon {
     font-size: 2.5rem;
   }
+
+  .services__name {
+    font-size: var(--h1-font-size);
+  }
 }
 
 /* For 2K resolutions <> */
