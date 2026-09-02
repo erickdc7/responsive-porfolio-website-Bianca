@@ -841,6 +841,11 @@ img {
   .work .blob-big {
     right: -6rem;
   }
+
+  .services__container {
+    grid-template-columns: 690px;
+    row-gap: 3rem;
+  }
 }
 
 /* For 2K resolutions <> */
