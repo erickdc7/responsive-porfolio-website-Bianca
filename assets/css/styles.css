@@ -646,6 +646,13 @@ img {
   margin-block: 1rem 2rem;
 }
 
+.services__list {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem;
+}
+
 /* Hide services info */
 
 /* Rotate icon */
