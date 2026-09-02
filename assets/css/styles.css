@@ -638,6 +638,10 @@ img {
   margin-left: auto;
 }
 
+.services__arrow i {
+  transition: rotate 0.4s;
+}
+
 /* Hide services info */
 
 /* Rotate icon */
