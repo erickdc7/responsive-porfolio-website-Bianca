@@ -621,6 +621,11 @@ img {
   font-size: 2rem;
 }
 
+.services__name {
+  font-size: var(--h2-font-size);
+  text-align: initial;
+}
+
 /* Hide services info */
 
 /* Rotate icon */
