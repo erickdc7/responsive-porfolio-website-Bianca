@@ -616,6 +616,11 @@ img {
   cursor: pointer;
 }
 
+.services__icon {
+  color: var(--first-color);
+  font-size: 2rem;
+}
+
 /* Hide services info */
 
 /* Rotate icon */
