@@ -642,6 +642,10 @@ img {
   transition: rotate 0.4s;
 }
 
+.services__description {
+  margin-block: 1rem 2rem;
+}
+
 /* Hide services info */
 
 /* Rotate icon */
