@@ -671,6 +671,10 @@ img {
 }
 
 /* Hide services info */
+.services-open .services__data {
+  max-height: 500px;
+  opacity: 1;
+}
 
 /* Rotate icon */
 
