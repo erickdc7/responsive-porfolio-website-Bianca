@@ -677,6 +677,9 @@ img {
 }
 
 /* Rotate icon */
+.services-open .services__arrow i {
+  rotate: -180deg;
+}
 
 /*=============== SKILLS SECTION ===============*/
 
