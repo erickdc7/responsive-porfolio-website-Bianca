@@ -626,6 +626,18 @@ img {
   text-align: initial;
 }
 
+.services__arrow {
+  width: 32px;
+  height: 32px;
+  background-color: var(--container-color);
+  color: var(--white-color);
+  border-radius: 50%;
+  font-size: 1.5rem;
+  display: grid;
+  place-items: center;
+  margin-left: auto;
+}
+
 /* Hide services info */
 
 /* Rotate icon */
