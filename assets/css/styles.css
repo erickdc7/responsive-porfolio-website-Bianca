@@ -672,7 +672,7 @@ img {
 
 /* Hide services info */
 .services-open .services__data {
-  max-height: 500px;
+  max-height: 500px; /* If you have more elements, increase the max-height */
   opacity: 1;
 }
 
