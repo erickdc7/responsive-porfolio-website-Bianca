@@ -746,6 +746,11 @@ img {
   filter: drop-shadow(0 0 12px var(--first-color));
 }
 
+.skills__item:hover .skills__name {
+  color: var(--first-color);
+  text-shadow: var(--first-color) 0 0 12px;
+}
+
 /*=============== TESTIMONIALS SECTION ===============*/
 
 /* Infinite scroll animation */
