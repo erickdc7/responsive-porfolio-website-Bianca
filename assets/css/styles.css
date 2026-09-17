@@ -731,6 +731,10 @@ img {
   transition: filter 0.4s;
 }
 
+.skills__img {
+  width: 16px;
+}
+
 /*=============== TESTIMONIALS SECTION ===============*/
 
 /* Infinite scroll animation */
