@@ -687,6 +687,17 @@ img {
   text-align: center;
 }
 
+.skills__card {
+  position: relative;
+  background-color: var(--container-color);
+  padding: 1.5rem 1rem;
+  border-radius: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  row-gap: 1.5rem;
+  overflow: hidden;
+}
+
 /*=============== TESTIMONIALS SECTION ===============*/
 
 /* Infinite scroll animation */
