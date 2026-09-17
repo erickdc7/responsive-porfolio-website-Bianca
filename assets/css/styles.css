@@ -735,6 +735,13 @@ img {
   width: 16px;
 }
 
+.skills__name {
+  font-size: var(--small-font-size);
+  transition:
+    color 0.4s,
+    text-shadow 0.4s;
+}
+
 /*=============== TESTIMONIALS SECTION ===============*/
 
 /* Infinite scroll animation */
