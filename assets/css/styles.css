@@ -698,6 +698,14 @@ img {
   overflow: hidden;
 }
 
+.skills__profession {
+  display: flex;
+  align-items: center;
+  column-gap: 0.5rem;
+  justify-content: center;
+  z-index: 5;
+}
+
 /*=============== TESTIMONIALS SECTION ===============*/
 
 /* Infinite scroll animation */
