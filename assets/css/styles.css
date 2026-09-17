@@ -751,6 +751,14 @@ img {
   text-shadow: var(--first-color) 0 0 12px;
 }
 
+.skills__card .blob-small {
+  z-index: 1;
+  top: -5rem;
+  left: 0;
+  right: 0;
+  justify-self: center;
+}
+
 /*=============== TESTIMONIALS SECTION ===============*/
 
 /* Infinite scroll animation */
