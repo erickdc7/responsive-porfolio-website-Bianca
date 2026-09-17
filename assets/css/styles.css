@@ -711,6 +711,10 @@ img {
   color: var(--first-color);
 }
 
+.skills__title {
+  font-size: var(--h2-font-size);
+}
+
 /*=============== TESTIMONIALS SECTION ===============*/
 
 /* Infinite scroll animation */
