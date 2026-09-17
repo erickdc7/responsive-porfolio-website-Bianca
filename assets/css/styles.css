@@ -682,6 +682,10 @@ img {
 }
 
 /*=============== SKILLS SECTION ===============*/
+.skills__description {
+  margin: 0 1rem 3rem;
+  text-align: center;
+}
 
 /*=============== TESTIMONIALS SECTION ===============*/
 
