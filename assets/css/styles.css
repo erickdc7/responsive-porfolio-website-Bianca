@@ -706,6 +706,11 @@ img {
   z-index: 5;
 }
 
+.skills__icon {
+  font-size: 2rem;
+  color: var(--first-color);
+}
+
 /*=============== TESTIMONIALS SECTION ===============*/
 
 /* Infinite scroll animation */
