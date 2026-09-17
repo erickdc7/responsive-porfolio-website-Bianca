@@ -742,6 +742,10 @@ img {
     text-shadow 0.4s;
 }
 
+.skills__item:hover {
+  filter: drop-shadow(0 0 12px var(--first-color));
+}
+
 /*=============== TESTIMONIALS SECTION ===============*/
 
 /* Infinite scroll animation */
