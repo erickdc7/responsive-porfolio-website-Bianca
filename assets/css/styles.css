@@ -715,6 +715,14 @@ img {
   font-size: var(--h2-font-size);
 }
 
+.skills__list {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1rem;
+  z-index: 5;
+}
+
 /*=============== TESTIMONIALS SECTION ===============*/
 
 /* Infinite scroll animation */
