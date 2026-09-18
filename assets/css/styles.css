@@ -791,6 +791,11 @@ img {
   .work__card {
     width: 350px;
   }
+
+  .skills__description {
+    width: 500px;
+    margin-inline: auto;
+  }
 }
 
 /* For large devices <> */
