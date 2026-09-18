@@ -949,6 +949,10 @@ img {
   .services__list {
     padding-left: 5.5rem;
   }
+
+  .skills__description {
+    width: 700px;
+  }
 }
 
 /* For 2K resolutions <> */
