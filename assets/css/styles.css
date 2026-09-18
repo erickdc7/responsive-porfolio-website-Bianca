@@ -782,7 +782,8 @@ img {
 
   .home__container,
   .about__container,
-  .services__container {
+  .services__container,
+  .skills__container {
     grid-template-columns: 400px;
     justify-content: center;
   }
