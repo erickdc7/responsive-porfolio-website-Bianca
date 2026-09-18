@@ -953,6 +953,10 @@ img {
   .skills__description {
     width: 700px;
   }
+
+  .skills__container {
+    grid-template-columns: 700px;
+  }
 }
 
 /* For 2K resolutions <> */
