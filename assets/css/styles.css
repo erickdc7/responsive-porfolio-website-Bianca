@@ -975,6 +975,10 @@ img {
   .skills__img {
     width: 20px;
   }
+
+  .skills__name {
+    font-size: var(--normal-font-size);
+  }
 }
 
 /* For 2K resolutions <> */
