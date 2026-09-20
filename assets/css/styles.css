@@ -963,6 +963,10 @@ img {
     flex-direction: row;
     column-gap: 6rem;
   }
+
+  .skills__icon {
+    font-size: 3rem;
+  }
 }
 
 /* For 2K resolutions <> */
