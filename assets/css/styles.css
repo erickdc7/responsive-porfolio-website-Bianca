@@ -967,6 +967,10 @@ img {
   .skills__icon {
     font-size: 3rem;
   }
+
+  .skills__title {
+    font-size: var(--h1-font-size);
+  }
 }
 
 /* For 2K resolutions <> */
