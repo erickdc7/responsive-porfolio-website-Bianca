@@ -766,6 +766,16 @@ img {
   overflow: hidden;
 }
 
+.testimonials__card {
+  position: relative;
+  width: 280px;
+  background-color: var(--container-color);
+  padding: 1.5rem 1rem;
+  border-radius: 1.5rem;
+  margin-inline: 0.5rem;
+  overflow: hidden;
+}
+
 /* Infinite scroll animation */
 
 /*=============== CONTACT SECTION ===============*/
