@@ -776,6 +776,14 @@ img {
   overflow: hidden;
 }
 
+.testimonials__rating {
+  display: flex;
+  align-items: center;
+  column-gap: 0.5rem;
+  margin-bottom: 1rem;
+  z-index: 5;
+}
+
 /* Infinite scroll animation */
 
 /*=============== CONTACT SECTION ===============*/
