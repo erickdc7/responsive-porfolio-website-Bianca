@@ -760,6 +760,11 @@ img {
 }
 
 /*=============== TESTIMONIALS SECTION ===============*/
+.testimonials__container {
+  position: relative;
+  margin-inline: 0;
+  overflow: hidden;
+}
 
 /* Infinite scroll animation */
 
