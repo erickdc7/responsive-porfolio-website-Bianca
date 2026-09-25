@@ -107,6 +107,7 @@ servicesButtons.forEach(button => {
 const tracks = document.querySelectorAll('.testimonials__content')
 
 tracks.forEach(track=>{
+   // Get the child testimonial sliders and create a copy of all cards
    
 })
 
