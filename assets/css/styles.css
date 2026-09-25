@@ -816,6 +816,11 @@ img {
   border-radius: 50%;
 }
 
+.testimonials__name {
+  font: var(--font-semi-bold) var(--h3-font-size) var(--second-font);
+  color: var(--white-color);
+}
+
 /* Infinite scroll animation */
 
 /*=============== CONTACT SECTION ===============*/
