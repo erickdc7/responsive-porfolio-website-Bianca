@@ -103,7 +103,7 @@ servicesButtons.forEach(button => {
 })
 
 /*=============== TESTIMONIALS OF DUPLICATE CARDS ===============*/
-
+// Get all testimonial sliders
 
 /*=============== CONTACT EMAIL JS ===============*/
 
