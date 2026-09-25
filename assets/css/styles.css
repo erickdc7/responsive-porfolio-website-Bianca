@@ -811,6 +811,11 @@ img {
   z-index: 5;
 }
 
+.testimonials__img {
+  width: 40px;
+  border-radius: 50%;
+}
+
 /* Infinite scroll animation */
 
 /*=============== CONTACT SECTION ===============*/
