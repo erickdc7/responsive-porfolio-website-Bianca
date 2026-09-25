@@ -111,6 +111,9 @@ tracks.forEach(track => {
    const cards = [...track.children] // Converts the collection into an array
 
    // Get all the testimonial sliders
+   for (const card of cards) {
+      // Duplicate the card and append it at the end
+   }
 })
 
 /*=============== CONTACT EMAIL JS ===============*/
