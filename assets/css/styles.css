@@ -804,6 +804,13 @@ img {
   z-index: 5;
 }
 
+.testimonials__profile {
+  display: flex;
+  align-items: center;
+  column-gap: 0.5rem;
+  z-index: 5;
+}
+
 /* Infinite scroll animation */
 
 /*=============== CONTACT SECTION ===============*/
