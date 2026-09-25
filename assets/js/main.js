@@ -113,6 +113,7 @@ tracks.forEach(track => {
    // Get all the testimonial sliders
    for (const card of cards) {
       // Duplicate the card and append it at the end
+      track.appendChild(card.cloneNode(true))
    }
 })
 
