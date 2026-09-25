@@ -106,6 +106,10 @@ servicesButtons.forEach(button => {
 // Get all testimonial sliders
 const tracks = document.querySelectorAll('.testimonials__content')
 
+tracks.forEach(track=>{
+   
+})
+
 /*=============== CONTACT EMAIL JS ===============*/
 
 
