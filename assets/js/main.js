@@ -104,6 +104,7 @@ servicesButtons.forEach(button => {
 
 /*=============== TESTIMONIALS OF DUPLICATE CARDS ===============*/
 // Get all testimonial sliders
+const tracks = document.querySelectorAll('.testimonials__content')
 
 /*=============== CONTACT EMAIL JS ===============*/
 
