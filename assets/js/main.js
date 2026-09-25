@@ -108,7 +108,7 @@ const tracks = document.querySelectorAll('.testimonials__content')
 
 tracks.forEach(track => {
    // Get the child testimonial sliders and create a copy of all cards
-   const cards = [...track.children]
+   const cards = [...track.children] // Converts the collection into an array
 })
 
 /*=============== CONTACT EMAIL JS ===============*/
