@@ -784,6 +784,11 @@ img {
   z-index: 5;
 }
 
+.testimonials__number {
+  font: var(--font-semi-bold) var(--h1-font-size) var(--second-font);
+  color: var(--first-color);
+}
+
 /* Infinite scroll animation */
 
 /*=============== CONTACT SECTION ===============*/
