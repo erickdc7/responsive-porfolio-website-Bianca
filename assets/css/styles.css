@@ -821,6 +821,12 @@ img {
   color: var(--white-color);
 }
 
+.testimonials__card .blob-big {
+  z-index: 1;
+  right: -6rem;
+  bottom: -3rem;
+}
+
 /* Infinite scroll animation */
 
 /*=============== CONTACT SECTION ===============*/
