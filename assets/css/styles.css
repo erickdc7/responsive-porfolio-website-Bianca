@@ -799,6 +799,11 @@ img {
   color: var(--white-color);
 }
 
+.testimonials__description {
+  margin-bottom: 3rem;
+  z-index: 5;
+}
+
 /* Infinite scroll animation */
 
 /*=============== CONTACT SECTION ===============*/
