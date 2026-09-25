@@ -827,6 +827,12 @@ img {
   bottom: -3rem;
 }
 
+.testimonials__content {
+  display: flex;
+  width: max-content;
+  animation: scroll 18s linear infinite;
+}
+
 /* Infinite scroll animation */
 
 /*=============== CONTACT SECTION ===============*/
