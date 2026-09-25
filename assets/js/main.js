@@ -106,9 +106,9 @@ servicesButtons.forEach(button => {
 // Get all testimonial sliders
 const tracks = document.querySelectorAll('.testimonials__content')
 
-tracks.forEach(track=>{
+tracks.forEach(track => {
    // Get the child testimonial sliders and create a copy of all cards
-   
+   const cards = [...track.children]
 })
 
 /*=============== CONTACT EMAIL JS ===============*/
