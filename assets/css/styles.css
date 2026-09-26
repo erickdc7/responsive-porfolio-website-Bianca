@@ -1081,6 +1081,11 @@ img {
   .testimonials__rating {
     margin-bottom: 2rem;
   }
+
+  .testimonials__description {
+    font-size: var(--h3-font-size);
+    margin-bottom: 9.5rem;
+  }
 }
 
 /* For 2K resolutions <> */
