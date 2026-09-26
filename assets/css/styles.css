@@ -1067,6 +1067,12 @@ img {
   .skills__card .blob-small {
     top: -7.5rem;
   }
+
+  .testimonials__card {
+    width: 420px;
+    padding: 3rem;
+    border-radius: 3rem;
+  }
 }
 
 /* For 2K resolutions <> */
