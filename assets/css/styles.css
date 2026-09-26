@@ -1073,6 +1073,10 @@ img {
     padding: 3rem;
     border-radius: 3rem;
   }
+
+  .testimonials__number {
+    font-size: var(--h2-font-size);
+  }
 }
 
 /* For 2K resolutions <> */
