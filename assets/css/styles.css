@@ -1086,6 +1086,10 @@ img {
     font-size: var(--h3-font-size);
     margin-bottom: 9.5rem;
   }
+
+  .testimonials__card .blob-big {
+    bottom: -6rem;
+  }
 }
 
 /* For 2K resolutions <> */
