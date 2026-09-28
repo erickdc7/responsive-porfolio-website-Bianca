@@ -1090,6 +1090,16 @@ img {
   .testimonials__card .blob-big {
     bottom: -6rem;
   }
+
+  .testimonials__container::after,
+  .testimonials__container::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    width: 15%;
+    height: 100%;
+    background: gray;
+  }
 }
 
 /* For 2K resolutions <> */
