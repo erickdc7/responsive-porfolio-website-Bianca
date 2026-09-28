@@ -1109,6 +1109,16 @@ img {
       hsla(0, 0%, 0%, 0) 100%
     );
   }
+
+  .testimonials__container::before {
+    right: 0;
+    z-index: 1;
+    background: linear-gradient(
+      90deg,
+      hsla(0, 0%, 0%, 0) 0%,
+      var(--body-color) 100%
+    );
+  }
 }
 
 /* For 2K resolutions <> */
