@@ -1100,6 +1100,15 @@ img {
     height: 100%;
     background: gray;
   }
+
+  .testimonials__container::after {
+    left: 0;
+    background: linear-gradient(
+      90deg,
+      var(--body-color) 0%,
+      hsla(0, 0%, 0%, 0) 100%
+    );
+  }
 }
 
 /* For 2K resolutions <> */
