@@ -881,6 +881,11 @@ img {
   transition: opacity 0.4s;
 }
 
+.contact__input:focus ~ .contact__label,
+.contact__input:valid ~ .contact__label {
+  opacity: 0;
+}
+
 /*=============== FOOTER ===============*/
 
 /*=============== SCROLL BAR ===============*/
