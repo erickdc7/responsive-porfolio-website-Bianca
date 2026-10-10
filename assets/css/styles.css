@@ -898,6 +898,11 @@ img {
   resize: none;
 }
 
+.contact__button {
+  margin-top: 1rem;
+  cursor: pointer;
+}
+
 /*=============== FOOTER ===============*/
 
 /*=============== SCROLL BAR ===============*/
