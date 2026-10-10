@@ -848,6 +848,9 @@ img {
 }
 
 /*=============== CONTACT SECTION ===============*/
+.contact__container {
+  row-gap: 4rem;
+}
 
 /*=============== FOOTER ===============*/
 
