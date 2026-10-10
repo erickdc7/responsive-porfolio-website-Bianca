@@ -923,6 +923,12 @@ img {
   align-items: center;
 }
 
+.contact__info {
+  display: flex;
+  column-gap: 0.5rem;
+  align-items: center;
+}
+
 /*=============== FOOTER ===============*/
 
 /*=============== SCROLL BAR ===============*/
