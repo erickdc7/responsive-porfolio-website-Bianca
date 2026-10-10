@@ -861,6 +861,16 @@ img {
   position: relative;
 }
 
+.contact__input {
+  width: 100%;
+  background: var(--container-color);
+  color: var(--white-color);
+  padding: 1.25rem;
+  border-radius: 4rem;
+  font-weight: var(--font-semi-bold);
+  font-family: var(--second-font);
+}
+
 /*=============== FOOTER ===============*/
 
 /*=============== SCROLL BAR ===============*/
