@@ -857,6 +857,10 @@ img {
   row-gap: 1rem;
 }
 
+.contact__group {
+  position: relative;
+}
+
 /*=============== FOOTER ===============*/
 
 /*=============== SCROLL BAR ===============*/
