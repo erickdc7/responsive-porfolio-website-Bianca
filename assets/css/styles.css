@@ -960,6 +960,11 @@ img {
     color 0.4s;
 }
 
+.contact__link:hover .contact__arrow {
+  background-color: var(--first-color);
+  color: var(--black-color);
+}
+
 /*=============== FOOTER ===============*/
 
 /*=============== SCROLL BAR ===============*/
