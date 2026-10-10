@@ -929,6 +929,13 @@ img {
   align-items: center;
 }
 
+.contact__icon {
+  font-size: 1.5rem;
+  color: var(--first-color);
+}
+
+
+
 /*=============== FOOTER ===============*/
 
 /*=============== SCROLL BAR ===============*/
