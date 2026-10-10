@@ -939,6 +939,13 @@ img {
   margin-bottom: 0.25rem;
 }
 
+.contact__address {
+  color: var(--text-color);
+  font-weight: var(--font-semi-bold);
+  font-family: var(--second-font);
+  font-style: initial;
+}
+
 /*=============== FOOTER ===============*/
 
 /*=============== SCROLL BAR ===============*/
