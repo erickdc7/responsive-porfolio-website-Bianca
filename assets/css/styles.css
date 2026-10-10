@@ -852,6 +852,11 @@ img {
   row-gap: 4rem;
 }
 
+.contact__form {
+  position: relative;
+  row-gap: 1rem;
+}
+
 /*=============== FOOTER ===============*/
 
 /*=============== SCROLL BAR ===============*/
