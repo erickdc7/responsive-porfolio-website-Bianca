@@ -910,6 +910,10 @@ img {
   font-size: var(--small-font-size);
 }
 
+.contact__content {
+  row-gap: 1rem;
+}
+
 /*=============== FOOTER ===============*/
 
 /*=============== SCROLL BAR ===============*/
