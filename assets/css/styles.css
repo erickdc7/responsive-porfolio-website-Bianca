@@ -946,6 +946,20 @@ img {
   font-style: initial;
 }
 
+.contact__arrow {
+  width: 32px;
+  height: 32px;
+  background-color: var(--body-color);
+  border-radius: 50%;
+  color: var(--white-color);
+  font-size: 1.5rem;
+  display: grid;
+  place-items: center;
+  transition:
+    background-color 0.4s,
+    color 0.4s;
+}
+
 /*=============== FOOTER ===============*/
 
 /*=============== SCROLL BAR ===============*/
