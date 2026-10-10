@@ -871,6 +871,16 @@ img {
   font-family: var(--second-font);
 }
 
+.contact__label {
+  position: absolute;
+  top: 1.25rem;
+  left: 1.25rem;
+  pointer-events: none;
+  font-weight: var(--font-semi-bold);
+  font-family: var(--second-font);
+  transition: opacity 0.4s;
+}
+
 /*=============== FOOTER ===============*/
 
 /*=============== SCROLL BAR ===============*/
