@@ -903,6 +903,13 @@ img {
   cursor: pointer;
 }
 
+.contact__message {
+  position: absolute;
+  bottom: -2rem;
+  color: var(--white-color);
+  font-size: var(--small-font-size);
+}
+
 /*=============== FOOTER ===============*/
 
 /*=============== SCROLL BAR ===============*/
