@@ -1235,6 +1235,13 @@ img {
       var(--body-color) 100%
     );
   }
+
+  .contact__container {
+    grid-template-columns: 450px 380px;
+    align-items: center;
+    column-gap: 10rem;
+    padding-bottom: 3rem;
+  }
 }
 
 /* For 2K resolutions <> */
