@@ -1246,6 +1246,10 @@ img {
   .contact__input {
     padding-block: 1.5rem;
   }
+
+  .contact__label {
+    top: 1.5rem;
+  }
 }
 
 /* For 2K resolutions <> */
