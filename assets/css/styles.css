@@ -1254,6 +1254,10 @@ img {
   .contact__area {
     height: 14rem;
   }
+
+  .contact__content {
+    row-gap: 2rem;
+  }
 }
 
 /* For 2K resolutions <> */
