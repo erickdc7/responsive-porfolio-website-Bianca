@@ -1250,6 +1250,10 @@ img {
   .contact__label {
     top: 1.5rem;
   }
+
+  .contact__area {
+    height: 14rem;
+  }
 }
 
 /* For 2K resolutions <> */
