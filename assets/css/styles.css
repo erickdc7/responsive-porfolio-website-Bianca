@@ -1242,6 +1242,10 @@ img {
     column-gap: 10rem;
     padding-bottom: 3rem;
   }
+
+  .contact__input {
+    padding-block: 1.5rem;
+  }
 }
 
 /* For 2K resolutions <> */
