@@ -972,6 +972,10 @@ img {
   overflow: hidden;
 }
 
+.footer__container {
+  row-gap: 2rem;
+}
+
 /*=============== SCROLL BAR ===============*/
 
 /*=============== SCROLL UP ===============*/
