@@ -976,6 +976,11 @@ img {
   row-gap: 2rem;
 }
 
+.footer__title {
+  font-size: var(--h2-font-size);
+  text-align: center;
+}
+
 /*=============== SCROLL BAR ===============*/
 
 /*=============== SCROLL UP ===============*/
