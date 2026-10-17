@@ -987,6 +987,11 @@ img {
   display: flex;
 }
 
+.footer__content {
+  flex-direction: column;
+  row-gap: 2rem;
+}
+
 /*=============== SCROLL BAR ===============*/
 
 /*=============== SCROLL UP ===============*/
