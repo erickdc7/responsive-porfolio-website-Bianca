@@ -966,6 +966,11 @@ img {
 }
 
 /*=============== FOOTER ===============*/
+.footer {
+  position: relative;
+  padding-block: 5rem 2rem;
+  overflow: hidden;
+}
 
 /*=============== SCROLL BAR ===============*/
 
