@@ -997,6 +997,13 @@ img {
   column-gap: 2rem;
 }
 
+.footer__link {
+  color: var(--text-color);
+  font-weight: var(--font-semi-bold);
+  font-family: var(--second-font);
+  transition: color 0.4s;
+}
+
 /*=============== SCROLL BAR ===============*/
 
 /*=============== SCROLL UP ===============*/
