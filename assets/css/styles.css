@@ -1353,6 +1353,10 @@ img {
   .footer__copy {
     margin-top: 7rem;
   }
+
+  .footer .blob-big {
+    bottom: -15rem;
+  }
 }
 
 /* For 2K resolutions <> */
