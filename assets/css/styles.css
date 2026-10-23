@@ -1336,6 +1336,11 @@ img {
     grid-template-columns: 600px max-content;
     justify-content: space-between;
   }
+
+  .footer__title {
+    text-align: initial;
+    font-size: var(--h1-font-size);
+  }
 }
 
 /* For 2K resolutions <> */
