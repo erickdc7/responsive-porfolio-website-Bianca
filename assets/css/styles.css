@@ -1331,6 +1331,11 @@ img {
   .contact__content {
     row-gap: 2rem;
   }
+
+  .footer__container {
+    grid-template-columns: 600px max-content;
+    justify-content: space-between;
+  }
 }
 
 /* For 2K resolutions <> */
