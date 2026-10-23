@@ -1020,8 +1020,16 @@ img {
   transition: transform 0.4s;
 }
 
-.footer__social-link:hover{
+.footer__social-link:hover {
   transform: translateY(-0.25rem);
+}
+
+.footer__copy {
+  display: block;
+  text-align: center;
+  margin-top: 5.5rem;
+  font-size: var(--small-font-size);
+  font-family: var(--second-font);
 }
 
 /*=============== SCROLL BAR ===============*/
