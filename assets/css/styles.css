@@ -1345,6 +1345,10 @@ img {
   .footer__links {
     column-gap: 4rem;
   }
+
+  .footer__social {
+    column-gap: 2rem;
+  }
 }
 
 /* For 2K resolutions <> */
