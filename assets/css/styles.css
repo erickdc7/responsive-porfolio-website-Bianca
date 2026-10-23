@@ -1032,6 +1032,13 @@ img {
   font-family: var(--second-font);
 }
 
+.footer .blob-big {
+  bottom: -1.5rem;
+  left: 0;
+  right: 0;
+  margin-inline: auto;
+}
+
 /*=============== SCROLL BAR ===============*/
 
 /*=============== SCROLL UP ===============*/
