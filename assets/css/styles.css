@@ -1056,7 +1056,8 @@ img {
   .about__container,
   .services__container,
   .skills__container,
-  .contact__container {
+  .contact__container,
+  .footer__container {
     grid-template-columns: 400px;
     justify-content: center;
   }
