@@ -300,6 +300,9 @@ img {
 }
 
 /* Active link */
+.active-link::after {
+  opacity: 1;
+}
 
 /* Navigation for mobile devices <> */
 
