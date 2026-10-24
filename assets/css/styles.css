@@ -1404,5 +1404,10 @@ img {
 }
 
 /* For 2K resolutions <> */
+@media (width >= 2048px) {
+  body {
+    zoom: 120%;
+  }
+}
 
 /* Custom cursor is hidden for mobile devices */
