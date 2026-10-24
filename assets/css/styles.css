@@ -1397,6 +1397,10 @@ img {
   .footer .blob-big {
     bottom: -15rem;
   }
+
+  .scrollup {
+    right: 3rem;
+  }
 }
 
 /* For 2K resolutions <> */
