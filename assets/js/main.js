@@ -153,5 +153,6 @@ window.addEventListener('scroll', scrollActive)
 
 /*=============== CUSTOM CURSOR ===============*/
 const cursor = document.querySelector('.cursor')
+let mouseX = 0, mouseY = 0
 
 /*=============== SCROLLREVEAL ANIMATION ===============*/
