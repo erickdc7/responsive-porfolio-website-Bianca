@@ -161,6 +161,7 @@ const cursorMove = () => {
    cursor.style.transform = `translate(-50%, -50%)` // Center the element at the position
 
    // Repeats the function with each movement
+   requestAnimationFrame(cursorMove)
 }
 
 cursorMove()
