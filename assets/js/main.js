@@ -159,4 +159,6 @@ const cursorMove = () => {
 
 }
 
+cursorMove()
+
 /*=============== SCROLLREVEAL ANIMATION ===============*/
