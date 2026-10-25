@@ -156,8 +156,8 @@ const cursor = document.querySelector('.cursor')
 let mouseX = 0, mouseY = 0 // Store mouse position
 
 const cursorMove = () => {
-   cursor.style.left = `${mouseX}px`
-   cursor.style.top = `${mouseY}px` // Verticalposition (Y-axis)
+   cursor.style.left = `${mouseX}px` // Horizontal position (X-axis)
+   cursor.style.top = `${mouseY}px` // Vertical position (Y-axis)
 }
 
 cursorMove()
