@@ -164,6 +164,8 @@ const cursorMove = () => {
    requestAnimationFrame(cursorMove)
 }
 
+// Detects mouse movement and updates positions
+
 cursorMove()
 
 /*=============== SCROLLREVEAL ANIMATION ===============*/
