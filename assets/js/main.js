@@ -159,6 +159,8 @@ const cursorMove = () => {
    cursor.style.left = `${mouseX}px` // Horizontal position (X-axis)
    cursor.style.top = `${mouseY}px` // Vertical position (Y-axis)
    cursor.style.transform = `translate(-50%, -50%)` // Center the element at the position
+
+   // Repeats the function with each movement
 }
 
 cursorMove()
