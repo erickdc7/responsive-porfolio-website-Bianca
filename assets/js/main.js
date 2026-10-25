@@ -156,7 +156,8 @@ const cursor = document.querySelector('.cursor')
 let mouseX = 0, mouseY = 0 // Store mouse position
 
 const cursorMove = () => {
-
+   cursor.style.left = `${mouseX}px`
+   
 }
 
 cursorMove()
