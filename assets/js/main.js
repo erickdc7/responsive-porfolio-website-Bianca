@@ -166,8 +166,8 @@ const cursorMove = () => {
 
 // Detects mouse movement and updates positions
 document.addEventListener('mousemove', e => {
-   mouseX = e.clientX
-   mouseY = e.clientY
+   mouseX = e.clientX // Save position X
+   mouseY = e.clientY // Save position Y
 })
 
 cursorMove()
