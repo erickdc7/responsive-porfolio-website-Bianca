@@ -176,7 +176,7 @@ cursorMove()
 const a = document.querySelectorAll('a')
 
 a.forEach(item =>{
-   
+   // Mouse enters the link and hides the cursor
 })
 
 /*=============== SCROLLREVEAL ANIMATION ===============*/
