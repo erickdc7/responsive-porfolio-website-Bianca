@@ -173,5 +173,8 @@ document.addEventListener('mousemove', e => {
 cursorMove()
 
 /* Hide custom cursor on links */
+const a = document.querySelectorAll('a')
+
+
 
 /*=============== SCROLLREVEAL ANIMATION ===============*/
