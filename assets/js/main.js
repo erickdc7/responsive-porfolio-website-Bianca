@@ -175,6 +175,8 @@ cursorMove()
 /* Hide custom cursor on links */
 const a = document.querySelectorAll('a')
 
-
+a.forEach(item =>{
+   
+})
 
 /*=============== SCROLLREVEAL ANIMATION ===============*/
