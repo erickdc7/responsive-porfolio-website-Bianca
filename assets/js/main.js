@@ -175,10 +175,10 @@ cursorMove()
 /* Hide custom cursor on links */
 const a = document.querySelectorAll('a')
 
-a.forEach(item =>{
+a.forEach(item => {
    // Mouse enters the link and hides the cursor
-   item.addEventListener('mouseover',()=>{
-      
+   item.addEventListener('mouseover', () => {
+      cursor.classList.add('hide-cursor')
    })
 })
 
