@@ -177,6 +177,9 @@ const a = document.querySelectorAll('a')
 
 a.forEach(item =>{
    // Mouse enters the link and hides the cursor
+   item.addEventListener('mouseover',()=>{
+      
+   })
 })
 
 /*=============== SCROLLREVEAL ANIMATION ===============*/
