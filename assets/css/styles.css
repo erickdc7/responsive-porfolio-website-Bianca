@@ -200,6 +200,10 @@ img {
 }
 
 /* Hide the custom cursor */
+.hide-cursor {
+  width: 0;
+  height: 0;
+}
 
 /*=============== HEADER & NAV ===============*/
 .header {
