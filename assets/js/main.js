@@ -181,6 +181,9 @@ a.forEach(item => {
       cursor.classList.add('hide-cursor')
    })
    // Mouse exits the link and shows the cursor
+   item.addEventListener('mouseleave', () => {
+
+   })
 })
 
 /*=============== SCROLLREVEAL ANIMATION ===============*/
