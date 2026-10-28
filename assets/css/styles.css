@@ -1436,3 +1436,8 @@ img {
 }
 
 /* Custom cursor is hidden for mobile devices */
+@media (pointer: coarse) {
+  .cursor {
+    display: none;
+  }
+}
