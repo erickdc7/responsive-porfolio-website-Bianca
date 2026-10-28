@@ -199,6 +199,8 @@ img {
     height 0.3s;
 }
 
+/* Hide the custom cursor */
+
 /*=============== HEADER & NAV ===============*/
 .header {
   position: fixed;
