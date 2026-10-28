@@ -182,7 +182,7 @@ a.forEach(item => {
    })
    // Mouse exits the link and shows the cursor
    item.addEventListener('mouseleave', () => {
-
+      cursor.classList.remove('hide-cursor')
    })
 })
 
