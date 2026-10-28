@@ -190,4 +190,6 @@ a.forEach(item => {
 const sr = ScrollReveal({
    origin: 'bottom',
    distance: '60px',
+   duration: 1200,
+   
 })
