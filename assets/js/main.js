@@ -197,3 +197,4 @@ const sr = ScrollReveal({
 })
 
 sr.reveal(`.home__subtitle`)
+sr.reveal(`.home__title`, { delay: 600 })
