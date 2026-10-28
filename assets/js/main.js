@@ -199,3 +199,4 @@ const sr = ScrollReveal({
 sr.reveal(`.home__subtitle`)
 sr.reveal(`.home__title`, { delay: 600 })
 sr.reveal(`.home__description`, { delay: 900 })
+sr.reveal(`.home__box-1`, { delay: 1200, rotate: { z: -20 } })
