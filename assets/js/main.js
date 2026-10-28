@@ -191,5 +191,5 @@ const sr = ScrollReveal({
    origin: 'bottom',
    distance: '60px',
    duration: 1200,
-   
+   delay: 300,
 })
