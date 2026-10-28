@@ -193,5 +193,5 @@ const sr = ScrollReveal({
    duration: 1200,
    delay: 300,
    easing: 'cubic-bezier(0.34, 1.56, 0.64, 1)',
-   reset: true,
+   reset: true, // Animations repeat
 })
