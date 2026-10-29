@@ -206,3 +206,4 @@ sr.reveal(`.home__img`, { delay: 1700, distance: '-60px' })
 sr.reveal(`.home__circle`, { delay: 2000, distance: '-100px' })
 
 sr.reveal(`.about__title`)
+sr.reveal(`.about__description`, { delay: 600 })
