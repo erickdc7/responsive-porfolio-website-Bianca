@@ -204,3 +204,5 @@ sr.reveal(`.home__box-2`, { delay: 1300, rotate: { z: -30 } })
 sr.reveal(`.home__box-3`, { delay: 1400, rotate: { z: -40 } })
 sr.reveal(`.home__img`, { delay: 1700, distance: '-60px' })
 sr.reveal(`.home__circle`, { delay: 2000, distance: '-100px' })
+
+sr.reveal(`.about__title`)
