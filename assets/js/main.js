@@ -210,3 +210,5 @@ sr.reveal(`.about__description`, { delay: 600 })
 sr.reveal(`.about__button`, { delay: 900 })
 
 sr.reveal(`.work__swiper`)
+
+sr.reveal(`.services__card:nth-child(odd)`, { interval: 200, origin: 'left', distance: '100px' })
