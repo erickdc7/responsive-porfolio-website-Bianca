@@ -208,3 +208,5 @@ sr.reveal(`.home__circle`, { delay: 2000, distance: '-100px' })
 sr.reveal(`.about__title`)
 sr.reveal(`.about__description`, { delay: 600 })
 sr.reveal(`.about__button`, { delay: 900 })
+
+sr.reveal(`.work__swiper`)
