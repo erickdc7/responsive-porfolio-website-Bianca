@@ -212,3 +212,4 @@ sr.reveal(`.about__button`, { delay: 900 })
 sr.reveal(`.work__swiper`)
 
 sr.reveal(`.services__card:nth-child(odd)`, { interval: 200, origin: 'left', distance: '100px' })
+sr.reveal(`.services__card:nth-child(even)`, { interval: 200, origin: 'right', distance: '100px' })
