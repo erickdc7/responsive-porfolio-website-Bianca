@@ -217,3 +217,4 @@ sr.reveal(`.services__card:nth-child(even)`, { interval: 200, origin: 'right', d
 sr.reveal(`.skills__description`)
 sr.reveal(`.skills__card`, { delay: 600, interval: 200 })
 sr.reveal(`.skills__profession`, { delay: 900 })
+sr.reveal(`.skills__list`, { delay: 1200, interval: 200 })
