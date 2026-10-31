@@ -220,3 +220,5 @@ sr.reveal(`.skills__profession`, { delay: 900 })
 sr.reveal(`.skills__list`, { delay: 1200, interval: 200 })
 
 sr.reveal(`.testimonials__container`)
+
+sr.reveal(`.contact__form`)
