@@ -215,3 +215,4 @@ sr.reveal(`.services__card:nth-child(odd)`, { interval: 200, origin: 'left', dis
 sr.reveal(`.services__card:nth-child(even)`, { interval: 200, origin: 'right', distance: '100px' })
 
 sr.reveal(`.skills__description`)
+sr.reveal(`.skills__card`, { delay: 600, interval: 200 })
